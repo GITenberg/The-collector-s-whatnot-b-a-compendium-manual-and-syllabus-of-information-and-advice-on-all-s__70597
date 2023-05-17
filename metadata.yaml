@@ -1,0 +1,55 @@
+_repo: The-collector-s-whatnot-b-a-compendium-manual-and-syllabus-of-information-and-advice-on-all-s__70597
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kahler, Hugh MacNair
+    alias: Elphinstone, Murgatroyd
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '55814'
+    url: http://www.gutenberg.org/2009/agents/55814
+  - agent_name: Roberts, Kenneth Lewis
+    aliases:
+    - Kilgallen, Milton
+    - Roberts, Kenneth L.
+    birthdate: 1885
+    deathdate: 1957
+    gutenberg_agent_id: '54516'
+    url: http://www.gutenberg.org/2009/agents/54516
+    wikipedia: https://en.wikipedia.org/wiki/Kenneth_Roberts_(author)
+  - agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Tarkington, B. (Booth)
+    - Van Loot, Cornelius Obenchain
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: https://en.wikipedia.org/wiki/Booth_Tarkington
+description: Written under pseudonyms by Booth Tarkington, Kenneth Lewis Roberts,
+  and Hugh MacNair Kahler.
+gutenberg_issued: '2023-04-19'
+identifiers:
+  gutenberg: '70597'
+  lccn: '23017751'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.b3116807
+pgterms:marc905: 20210520055450vanloot
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antiques -- Humor'
+- !lcc 'PN'
+- GITenberg
+title: 'The collector''s whatnot : $b a compendium, manual, and syllabus of information
+  and advice on all subjects appertaining to the collection of antiques, both ancient
+  and not so ancient'
+url: http://www.gutenberg.org/ebooks/70597
