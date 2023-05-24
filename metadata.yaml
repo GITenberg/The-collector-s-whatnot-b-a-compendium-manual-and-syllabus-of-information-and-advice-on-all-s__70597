@@ -1,5 +1,8 @@
 _repo: The-collector-s-whatnot-b-a-compendium-manual-and-syllabus-of-information-and-advice-on-all-s__70597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70597-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Kahler, Hugh MacNair
@@ -29,6 +32,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Booth_Tarkington
 description: Written under pseudonyms by Booth Tarkington, Kenneth Lewis Roberts,
   and Hugh MacNair Kahler.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70597#The-collector-s-whatnot-b-a-compendium-manual-and-syllabus-of-information-and-advice-on-all-s_
 gutenberg_issued: '2023-04-19'
 identifiers:
   gutenberg: '70597'
